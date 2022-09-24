@@ -12,7 +12,7 @@ Test executed for the below mentioned scenario in http://159.89.38.11/login
 24 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 24 And Total Concurrent API requested: 2424.
 25 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 18 And Total Concurrent API requested: 2121.
 
-While executed 25 concurrent request, found  8476 request got connection timeout and error rate is 1.37%. 
+While executed 25 concurrent request, found  2121 request got connection timeout and error rate is 1.37%. 
 
 Summary: Server can handle almost concurrent 9 API call with almost zero (0) error rate.
 
